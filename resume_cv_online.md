@@ -54,7 +54,7 @@
 
 # 优达学城项目
 
-## Uacity 无人车工程师纳米学位（201712~）
+## Uacity [无人车工程师纳米学位](https://gitlab.com/CARND-PROJECTS)（201712~）
 
 ### [Behavioral Cloning](https://gitlab.com/CARND-PROJECTS/CarND-Behavioral-Cloning-P3)
 
@@ -102,7 +102,14 @@
 
 
 ### [训练智能出租车学会驾驶](https://gitlab.com/MLND-PROJECTS/smartcab)
-- 使用 Q-learning强化学习算法，训练人工智能小车，使其能够适应环境同时完成任务。
+- 训练智能小车，能够适应环境同时完成任务
+- steps:
+  - environment: trafficlight,dummyagent
+  - planer
+  - simulator
+  - agent
+- algorithm：Q-learning
+
 
 # 技能清单
 我熟悉以下技能：
