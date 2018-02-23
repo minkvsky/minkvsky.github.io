@@ -82,13 +82,6 @@
 
 
 
-### [Implement a Planning Search](https://github.com/minkvsky/AIND-Planning)
-
-
-- 货运路线规划
-- goals: define a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain
-- steps: experiment with various automatically generated heuristics
-
 ### [Build a Game-playing Agent](https://github.com/minkvsky/AIND-Isolation)
 
 
