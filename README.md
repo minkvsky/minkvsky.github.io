@@ -1,5 +1,5 @@
 # 个人主页
-# [Resume](resume_cv_online.md)
+# [Resume](resume_cv.md)
 # todo
 - flashcards all my knows
 - mindmap
