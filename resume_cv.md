@@ -6,8 +6,7 @@
 
 - 手机：+86 18800184057
 - Email：chuanglongwei@163.com
-- QQ: 787040851
-- 微信：vegeta-sun
+- 微信：vegeta-sun / 18800184057
 
 ---
 
@@ -21,68 +20,47 @@
 
 ---
 
-# 优达学城项目
+# 个人综述
 
-## Uacity 无人车工程师纳米学位（201712~）
+对于风控类产品可以给出整套的解决方案：
 
-### Behavioral Cloning
-
-https://gitlab.com/CARND-PROJECTS/CarND-Behavioral-Cloning-P3
-
-- goals：在模拟器上自动驾驶
-- Build a cnn in Keras that predicts steering angles from images
-- 数据增强：random fliplr， random shear， random gamma correction
-- keywords: cnn, generator
-
-### Vehicle Detection and Tracking
-
-https://gitlab.com/CARND-PROJECTS/CarND-Vehicle-Detection
-
-- goals: 在给定视频中检测车辆和车道线
-- 车道线检测
-    - camera calibration and distort the images
-    - Use color transforms, gradients, etc., to create a thresholded binary image.
-    - Apply a perspective transform to rectify binary image ("birds-eye view").
-    - Detect lane pixels and fit to find the lane boundary.
-    - Determine the curvature of the lane and vehicle position with respect to center.
-- 车辆检测
-    - 利用HOG feature ，color histogram feature, binned color feature训练车辆分类模型
-    - 利用muti-scale windows 搜索
-    - 利用热图以及行驶记录过滤错误检测
-
-## Udacity 人工智能工程师纳米学位(201704~201709)
-
-https://gitlab.com/AIND-PROJECTS
-
-### Build a Game-playing Agent
-https://github.com/minkvsky/AIND-Isolation
-
-- goal:develop an adversarial search agent to play the game "Isolation"
-- steps:
-    - game class which contains cover, rules and so on.
-    - game agent with different algorithm.
-- algorithm: mix-min, alpha-beta
-
-## Udacity 机器学习算法工程师纳米学位(201609~201610)
-
-https://gitlab.com/MLND-PROJECTS
-
-### 训练智能出租车学会驾驶(smartcab)
-- https://gitlab.com/MLND-PROJECTS/smartcab
-- 使用 Q-learning强化学习算法，训练人工智能小车，使其能够适应环境同时完成任务。
-
----
+- 与产品或业务一起梳理流程中的痛点，
+- 模型部署、开发环境规划与搭建，
+- 与产品一起设计特征工程，
+- 模型训练与评测，
+- 结合业务的模型或模型系统的使用策略
 
 # 工作经历
 
+## 一览群智-高级数据分析师（201805~）
+
+### 风控系统产品开发
+
+- 主要负责风控系统中审批流（策略）分析模块：风险大盘，策略分析，冠军挑战。
+
+### 货车司机ETC卡（先通行后付费）模型
+
+- 组织团队开发模型
+- 产品业务需求对接，提数据需求，特征方案设计，模型训练，模型评估。
+
+### 建设银行智能任务分配、运营分析系统方案
+
+- 方案讨论以及实施细节的撰写
+
+### 建设银行大数据反洗钱
+
+- 模型技术经理
+- 根据产品业务需求，设计（大规模）模型系统方案
+- 设计特征衍生实施方案
+- 模型系统开发方案
+
 ## 马上消费金融-数据分析工程师（201611~201712）
 
--  数据分析工程师
--  主导信用审批环节系统重构
+-  主导信用审批环节系统重构；使得长期演化而来的策略代码更加清晰易懂便于使用。
 -  参与各种产品的分析，参与审批监控系统维护与更新
 -  线上审批系统更新与维护
 -  跟进新产品，新数据源等
--  设计组内协调方案，推动git工作流
+-  设计组内协同方案
 -  绩效拿过A
 
 ## 网舟联合科技 （ 201602 ~ 201609 ）
@@ -93,30 +71,49 @@ https://gitlab.com/MLND-PROJECTS
 - 使用python制作了系统地提取（月报，周报）数据程序，提高数据支撑与报告制作效率，并在同事中推广方法。
 - 进行数据可视化，批量生成ppt，从而找到用户软件推广渠道中的劣质渠道
 - 参与了数据分析指标体系设计。
-- 为同事做了机器学习（随机森林）的内训报告。
+- 为同事做了随机森林的内训报告。
 
-## 文新教育集团 （ 201509 ~ 201512）
+## 文新教育集团 （ 201510 ~ 201512）
 
 - 数学教师：高中，初中数学
 - 一对一授课，辅导；尤其重视学生的学习方法的改进
 
 ---
 
+# 优达学城项目
+
+## Uacity 无人车工程师纳米学位（201712~201908）
+
+## Udacity 人工智能工程师纳米学位(201704~201709)
+
+## Udacity 机器学习算法工程师纳米学位(201609~201610)
+
+---
+
 # 技能清单
+
+- 结构化数据模型落地方案研究与设计
+- 自动特征工程
+
 我熟悉以下技能：
 - python, R
 - MySQL, impala
-- Anaconda:jupyter notebook,pandas,numpy,sklearn
+- Anaconda: jupyter notebook, pandas, numpy, sklearn
+- 特征工程：featuretools系列
+- 模型可解释性：shap
+- Xgboost, ligthgbm
 - python-ppt:可以用于生成ppt数据报告
 - docker：主要用于自己的数据科学环境搭建
 - keras, tensorflow
 
 ---
 
-# 得到订阅
-- 专栏：吴军的谷歌方法论，万维钢精英日课等
-- 大师课：梁宁产品经理，枢纽·中国史纲50讲，30天认知训练营
-- 每天听本书
+# 得到
+
+- 学分：725
+- 总学习时长：1356.2h（截止20191117）
+- 勋章47
+- 证书21
 
 ---
 
